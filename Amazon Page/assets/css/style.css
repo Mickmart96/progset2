@@ -1,1 +1,107 @@
-/* Your styles here */
+/* Stile per il corpo della pagina */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#Logo {
+    background-color: rgb(2, 11, 58);
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+#logo {
+    width: 10%;
+
+}
+
+#barnavigazione {
+
+    background-color: rgb(91, 46, 3);
+
+}
+
+p {
+    display: inline;
+    color: aliceblue;
+    padding-left: 10px;
+}
+
+#contp {
+    text-align: center;
+    background-color: rgb(227, 82, 4);
+    color: whitesmoke;
+}
+
+#contsconto {
+    background-image: url(../images/bg-img.png);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p1 {
+    color: black;
+}
+
+section #Immaginimain {
+    display: inline-block;
+
+
+}
+
+.imgg {
+    margin: auto;
+    padding-left: 10%;
+    width: 12%;
+    border-radius: 15%;
+    display: inline-block;
+    ;
+}
+
+#immagcentro {
+    margin: 0 auto;
+    padding-left: 10px;
+    width: "100%";
+}
+
+.imggin {
+    display: inline-block;
+    width: "100%";
+}
+
+#immagdown {
+    margin: 0 auto;
+    padding-left: 10px;
+    width: "100%";
+    text-align: center;
+}
+
+.imggin {
+    display: inline-block;
+    width: "100%";
+}
+
+#footerimg {
+    background-color: rgb(5, 5, 69);
+    margin: 0 auto;
+    text-align: center;
+}
+
+#footerimg1 {
+    width: 10%;
+
+}
+
+#tornaup {
+    background-color: rgb(42, 10, 225);
+
+    text-align: center;
+  
+}
+#tornaup, a{
+    
+    color: antiquewhite;
+}
